@@ -1,2 +1,2 @@
 # CourseraWeb
-My reposittory to studt web tools
+My reposittory to study web tools
